@@ -1,4 +1,4 @@
-# 基于 Deepseek 的语病检测
+# 基于 Deepseek 的中文论文语病检测
 
 输入为 latex 格式的文件。
 
