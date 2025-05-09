@@ -137,3 +137,7 @@ python main.py ./documents --file-pattern "*.txt"
 
 MIT
 
+## 致谢
+
+感谢 Cursor ，10分钟完成了这个项目。
+
